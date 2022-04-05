@@ -1,8 +1,8 @@
-# 👨‍🎓📝 Student Admission Webportal
+# Student Admission Webportal
 
 A student admission portal built using PHP, SQL and CSS.
 
-## ⭐ Features
+## Features
 
 - The students can fill in their details and give their documents.
 - The staff with admin privileges can login using the admin button on the main page.
