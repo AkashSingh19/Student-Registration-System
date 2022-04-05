@@ -27,9 +27,9 @@
             </div>
         </form>
 
-        <h1 class="main-heading">Student Application 2019-20</h1>
+        <h1 class="main-heading">Student Application 2022-2023</h1>
         <main class="container">
-            <p>Fill this application to apply for an admission IIIT Nagpur's BTech Programme.</p>
+            <p>Fill this application to apply for an admission SRM University BTech Programme.</p>
     
             <form action="php/feedback.php" method="POST" class="admission-form">
                 <div class="student-details">
